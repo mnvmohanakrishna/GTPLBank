@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MultipleTestCases">
+	<listeners>
+		<listener class-name="com.gtpl.utilities.ListenerClass" />
+		<!--<listener class-name="com.gtpl.utilities.RetryTransformer" />-->
+	</listeners>
+	<test name="Test_All">
+		<classes>
+			<class name="com.gtpl.testCases.TC_Login" />
+			<class name="com.gtpl.testCases.TC_AllPages" />
+		</classes>
+	</test> <!--  -->
+</suite>

@@ -1,0 +1,346 @@
+2024-11-16 20:44:08,104 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-16 20:44:12,162 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-16 20:44:13,054 - GTPL Bank -INFO - Application logout successful
+2024-11-16 20:44:13,056 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-16 20:44:18,040 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-16 20:44:20,370 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-16 20:44:21,385 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-16 20:44:22,294 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-16 20:44:23,385 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-16 20:44:24,551 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-16 20:44:25,883 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-16 20:44:27,126 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-16 20:44:28,361 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-16 20:44:29,637 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-16 20:44:30,943 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-16 20:44:31,950 - GTPL Bank -INFO - Application logout successful
+2024-11-16 20:44:31,952 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-17 12:55:49,071 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-17 12:55:51,253 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-17 12:55:51,860 - GTPL Bank -INFO - Application logout successful
+2024-11-17 12:55:51,860 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-17 12:55:56,583 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-17 12:55:57,796 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-17 12:55:58,185 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-17 12:55:58,580 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-17 12:55:59,211 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-17 12:55:59,773 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-17 12:56:00,469 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-17 12:56:01,057 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-17 12:56:01,745 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-17 12:56:02,347 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-17 12:56:02,950 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-17 12:56:03,692 - GTPL Bank -INFO - Application logout successful
+2024-11-17 12:56:03,693 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-17 12:57:08,074 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-17 12:57:09,568 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-17 12:57:10,109 - GTPL Bank -INFO - Application logout successful
+2024-11-17 12:57:10,110 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-17 12:57:14,099 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-17 12:57:15,113 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-17 12:57:15,518 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-17 12:57:15,946 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-17 12:57:16,527 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-17 12:57:17,090 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-17 12:57:17,684 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-17 12:57:18,252 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-17 12:57:18,825 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-17 12:57:19,397 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-17 12:57:19,976 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-17 12:57:20,516 - GTPL Bank -INFO - Application logout successful
+2024-11-17 12:57:20,517 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-17 13:23:54,271 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-17 13:23:55,876 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-17 13:23:56,438 - GTPL Bank -INFO - Application logout successful
+2024-11-17 13:23:56,439 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-17 13:24:00,350 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-17 13:24:01,541 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-17 13:24:01,969 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-17 13:24:02,421 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-17 13:24:03,043 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-17 13:24:03,613 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-17 13:24:04,281 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-17 13:24:04,849 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-17 13:24:05,435 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-17 13:24:06,036 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-17 13:24:06,640 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-17 13:24:07,190 - GTPL Bank -INFO - Application logout successful
+2024-11-17 13:24:07,191 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-17 21:58:36,739 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-17 21:58:43,820 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-17 21:58:45,128 - GTPL Bank -INFO - Application logout successful
+2024-11-17 21:58:45,130 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-17 21:58:51,381 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-17 21:58:53,683 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-17 21:58:54,480 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-17 21:58:55,361 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-17 21:58:56,496 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-17 21:58:57,692 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-17 21:58:58,990 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-17 21:59:00,188 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-17 21:59:01,380 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-17 21:59:02,604 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-17 21:59:03,746 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-17 21:59:04,826 - GTPL Bank -INFO - Application logout successful
+2024-11-17 21:59:04,828 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-17 22:01:02,382 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-17 22:01:05,927 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-17 22:01:07,188 - GTPL Bank -INFO - Application logout successful
+2024-11-17 22:01:07,189 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-17 22:01:12,058 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-17 22:01:14,788 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-17 22:01:15,446 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-17 22:01:16,181 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-17 22:01:17,376 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-17 22:01:18,395 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-17 22:01:19,709 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-17 22:01:20,963 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-17 22:01:22,197 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-17 22:01:23,423 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-17 22:01:24,544 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-17 22:01:25,730 - GTPL Bank -INFO - Application logout successful
+2024-11-17 22:01:25,731 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-17 22:03:26,645 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-17 22:03:30,232 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-17 22:03:31,282 - GTPL Bank -INFO - Application logout successful
+2024-11-17 22:03:31,285 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-17 22:03:36,692 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-17 22:03:39,502 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-17 22:03:40,482 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-17 22:03:41,452 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-17 22:03:42,732 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-17 22:03:43,962 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-17 22:03:45,332 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-17 22:03:46,402 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-17 22:03:47,618 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-17 22:03:48,652 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-17 22:03:49,864 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-17 22:03:51,026 - GTPL Bank -INFO - Application logout successful
+2024-11-17 22:03:51,028 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-18 10:37:52,864 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-18 10:37:57,168 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-18 10:37:58,110 - GTPL Bank -INFO - Application logout successful
+2024-11-18 10:37:58,110 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-18 10:38:07,491 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-18 10:38:11,229 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-18 10:38:13,905 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-18 10:38:14,912 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-18 10:38:16,171 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-18 10:38:17,540 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-18 10:38:19,387 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-18 10:38:20,477 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-18 10:38:21,535 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-18 10:38:24,375 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-18 10:38:25,517 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-18 10:38:27,257 - GTPL Bank -INFO - Application logout successful
+2024-11-18 10:38:27,260 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-19 21:29:55,623 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-19 21:30:00,652 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-19 21:30:01,547 - GTPL Bank -INFO - Application logout successful
+2024-11-19 21:30:01,550 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-19 21:30:06,264 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-19 21:30:07,933 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-19 21:30:08,564 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-19 21:30:09,183 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-19 21:30:09,961 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-19 21:30:10,711 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-19 21:30:11,653 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-19 21:30:12,529 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-19 21:30:13,362 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-19 21:30:14,990 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-19 21:30:15,877 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-19 21:30:16,759 - GTPL Bank -INFO - Application logout successful
+2024-11-19 21:30:16,764 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-19 22:36:57,311 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-19 22:37:01,084 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-19 22:37:01,890 - GTPL Bank -INFO - Application logout successful
+2024-11-19 22:37:01,890 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-19 22:37:06,555 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-19 22:37:08,127 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-19 22:37:08,691 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-19 22:37:09,328 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-19 22:37:10,117 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-19 22:37:10,924 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-19 22:37:11,879 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-19 22:37:12,778 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-19 22:37:13,604 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-19 22:37:14,426 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-19 22:37:15,449 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-19 22:37:16,315 - GTPL Bank -INFO - Application logout successful
+2024-11-19 22:37:16,315 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-19 22:38:19,135 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-19 22:38:21,902 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-19 22:38:22,675 - GTPL Bank -INFO - Application logout successful
+2024-11-19 22:38:22,677 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-19 22:38:27,173 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-19 22:38:29,305 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-19 22:38:30,010 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-19 22:38:30,738 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-19 22:38:31,733 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-19 22:38:32,755 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-19 22:38:33,830 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-19 22:38:35,006 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-19 22:38:35,928 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-19 22:38:36,808 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-19 22:38:37,700 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-19 22:38:38,747 - GTPL Bank -INFO - Application logout successful
+2024-11-19 22:38:38,749 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-20 18:06:08,361 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-20 18:06:10,966 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 18:06:11,858 - GTPL Bank -INFO - Application logout successful
+2024-11-20 18:06:11,859 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-20 18:06:16,502 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-20 18:06:17,951 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 18:06:18,519 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-20 18:06:19,199 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-20 18:06:20,199 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-20 18:06:21,018 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-20 18:06:21,967 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-20 18:06:22,860 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-20 18:06:23,779 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-20 18:06:24,703 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-20 18:06:25,626 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-20 18:06:26,396 - GTPL Bank -INFO - Application logout successful
+2024-11-20 18:06:26,397 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-20 18:20:22,843 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-20 18:20:26,204 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 18:20:26,962 - GTPL Bank -INFO - Application logout successful
+2024-11-20 18:20:26,962 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-20 18:20:32,482 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-20 18:20:33,909 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 18:20:34,478 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-20 18:20:35,161 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-20 18:20:35,965 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-20 18:20:36,891 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-20 18:20:37,922 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-20 18:20:39,093 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-20 18:20:39,911 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-20 18:20:40,927 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-20 18:20:41,973 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-20 18:20:42,830 - GTPL Bank -INFO - Application logout successful
+2024-11-20 18:20:42,831 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-20 18:57:54,059 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-20 18:57:56,787 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 18:57:57,588 - GTPL Bank -INFO - Application logout successful
+2024-11-20 18:57:57,589 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-20 18:58:14,965 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-20 18:58:16,970 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 18:58:17,584 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-20 18:58:18,173 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-20 18:58:19,107 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-20 18:58:20,045 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-20 18:58:21,164 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-20 18:58:22,048 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-20 18:58:23,017 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-20 18:58:23,921 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-20 18:58:24,866 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-20 18:58:25,820 - GTPL Bank -INFO - Application logout successful
+2024-11-20 18:58:25,821 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-20 19:16:43,037 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-20 19:16:45,956 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 19:16:46,951 - GTPL Bank -INFO - Application logout successful
+2024-11-20 19:16:46,951 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-20 19:16:51,203 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-20 19:16:52,638 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 19:34:53,798 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-20 19:35:01,986 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 19:35:08,354 - GTPL Bank -INFO - Application logout successful
+2024-11-20 19:35:08,355 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-20 19:35:13,882 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-20 19:35:20,760 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 19:35:26,862 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-20 19:35:32,964 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-20 19:35:36,040 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-20 19:35:36,862 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-20 19:35:43,497 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-20 19:35:50,096 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-20 19:35:56,672 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-20 19:36:03,186 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-20 19:36:09,708 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-20 19:36:15,961 - GTPL Bank -INFO - Application logout successful
+2024-11-20 19:36:15,962 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-20 20:43:55,098 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-20 20:43:57,504 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 20:43:58,266 - GTPL Bank -INFO - Application logout successful
+2024-11-20 20:43:58,267 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-20 20:44:04,385 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-20 20:44:05,825 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 20:44:06,256 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-20 20:44:06,706 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-20 20:44:07,375 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-20 20:44:08,048 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-20 20:44:08,725 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-20 20:44:10,209 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-20 20:44:10,896 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-20 20:44:11,710 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-20 20:44:12,414 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-20 20:44:13,089 - GTPL Bank -INFO - Application logout successful
+2024-11-20 20:44:13,090 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-20 20:45:58,049 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-20 20:45:59,974 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 20:46:00,643 - GTPL Bank -INFO - Application logout successful
+2024-11-20 20:46:00,644 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-20 20:46:04,743 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-20 20:46:06,226 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 20:46:06,843 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-20 20:46:07,454 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-20 20:46:08,172 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-20 20:46:08,876 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-20 20:46:09,597 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-20 20:46:10,399 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-20 20:46:11,281 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-20 20:46:12,052 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-20 20:46:12,840 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-20 20:46:13,589 - GTPL Bank -INFO - Application logout successful
+2024-11-20 20:46:13,589 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-20 20:57:51,494 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-20 20:57:53,880 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 20:57:54,735 - GTPL Bank -INFO - Application logout successful
+2024-11-20 20:57:54,736 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-20 20:57:59,244 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-20 20:58:00,636 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 20:58:01,177 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-20 20:58:01,768 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-20 20:58:02,508 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-20 20:58:03,251 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-20 20:58:04,028 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-20 20:58:05,630 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-20 20:58:06,407 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-20 20:58:07,198 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-20 20:58:07,989 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-20 20:58:08,653 - GTPL Bank -INFO - Application logout successful
+2024-11-20 20:58:08,654 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-20 21:08:46,219 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-20 21:08:49,259 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 21:08:49,922 - GTPL Bank -INFO - Application logout successful
+2024-11-20 21:08:49,923 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-20 21:08:59,539 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-20 21:09:00,790 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 21:09:01,260 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-20 21:09:01,808 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-20 21:09:02,473 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-20 21:09:03,145 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-20 21:09:04,690 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-20 21:09:05,371 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-20 21:09:06,013 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-20 21:09:07,471 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-20 21:09:08,120 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-20 21:09:08,756 - GTPL Bank -INFO - Application logout successful
+2024-11-20 21:09:08,756 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
+2024-11-20 21:09:32,437 - GTPL Bank -INFO - Initiated verification for login and logout of application
+2024-11-20 21:09:34,279 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 21:09:34,950 - GTPL Bank -INFO - Application logout successful
+2024-11-20 21:09:34,952 - GTPL Bank -INFO - Completed verification for login and logout of application
+2024-11-20 21:09:39,673 - GTPL Bank -INFO - Initiated verification for presence of all pages in the application
+2024-11-20 21:09:40,798 - GTPL Bank -INFO - GTPL Bank internet banking login is successfull in production environment on edge browser
+2024-11-20 21:09:41,242 - GTPL Bank -INFO - Verified presence of manager page, working as expected
+2024-11-20 21:09:41,707 - GTPL Bank -INFO - Verified presence of new customer page, working as expected
+2024-11-20 21:09:42,369 - GTPL Bank -INFO - Verified presence of edit customer page, working as expected
+2024-11-20 21:09:43,043 - GTPL Bank -INFO - Verified presence of delete customer page, working as expected
+2024-11-20 21:09:43,741 - GTPL Bank -INFO - Verified presence of new account page, working as expected
+2024-11-20 21:09:44,400 - GTPL Bank -INFO - Verified presence of edit account page, working as expected
+2024-11-20 21:09:45,052 - GTPL Bank -INFO - Verified presence of delete account page, working as expected
+2024-11-20 21:09:45,726 - GTPL Bank -INFO - Verified presence of mini statement page, working as expected
+2024-11-20 21:09:46,382 - GTPL Bank -INFO - Verified presence of customised statement page, working as expected
+2024-11-20 21:09:47,019 - GTPL Bank -INFO - Application logout successful
+2024-11-20 21:09:47,020 - GTPL Bank -INFO - Completed verification for presence of all pages in the application
