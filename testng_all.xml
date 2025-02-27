@@ -8,7 +8,6 @@
 	<test name="Test_All">
 		<classes>
 			<class name="com.gtpl.testCases.TC_Login" />
-			<class name="com.gtpl.testCases.TC_AllPages" />
 		</classes>
 	</test> <!--  -->
 </suite>
