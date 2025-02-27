@@ -3,7 +3,7 @@
 <suite name="MultipleTestCases">
 	<listeners>
 		<listener class-name="com.gtpl.utilities.ListenerClass" />
-		<!--<listener class-name="com.gtpl.utilities.RetryTransformer" />-->
+		<listener class-name="com.gtpl.utilities.RetryTransformer" />
 	</listeners>
 	<test name="Test_All">
 		<classes>
