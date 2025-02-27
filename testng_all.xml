@@ -7,7 +7,6 @@
 	</listeners>
 	<test name="Test_All">
 		<classes>
-	
 			<class name="com.gtpl.testCases.TC_Login" />
 		</classes>
 	</test> <!--  -->
