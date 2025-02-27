@@ -1,2 +1,2 @@
-cd C:\Eclipse\GTPLBank
+cd C:\Users\mohan\git\GTPLBank
 mvn clean install
